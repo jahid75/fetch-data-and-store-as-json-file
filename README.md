@@ -9,7 +9,7 @@ To run this application, follow these steps:
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/jahid75/fetch-data-and-store-as-json-file.git
-    cd skogsLive-disbursements
+    cd fetch-data-and-store-as-json-file
     ```
 
 2.  **Requirements:**
